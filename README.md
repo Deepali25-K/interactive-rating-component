@@ -1,6 +1,6 @@
-# Frontend Mentor - Article preview component solution
+# Frontend Mentor - Interactive rating component solution
 
-This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -19,8 +19,10 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 Users should be able to:
 
-- View the optimal layout for the component depending on their device's screen size
-- See the social media share links when they click the share icon
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Select and submit a number rating
+- See the "Thank you" card state after submitting a rating
 
 ### Screenshot
 
@@ -28,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Code Demo](https://article-preview-deepali.netlify.app/)
+- Live Site URL: [Code Demo]()
 
 ## My process
 
@@ -42,6 +44,6 @@ Users should be able to:
 
 ## Author
 
-- LinkedIn - [Deepali Panchal](https://www.linkedin.com/in/deepali-panchal-44115526a/)
+- LinkedIn - [Deepali Panchal](linkedin.com/in/iamdeepali)
 - Codepen - [@Iam_DeepaliP](https://codepen.io/Iam_DeepaliP)
 - Twitter - [@Iam_DeepaliP](https://twitter.com/Iam_DeepaliP)
