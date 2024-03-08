@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Code Demo]()
+- Live Site URL: [Code Demo](https://rating-card-deepali.netlify.app/)
 
 ## My process
 
